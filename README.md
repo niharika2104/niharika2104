@@ -2,7 +2,7 @@
 
 ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=90&lines=Software+Developer+-+AI%2FML+%26+Cloud+Solutions;Building+Intelligent%2C+Scalable+Systems;5%2B+Years+of+Engineering+Experience)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=120&lines=Software+Developer+-+AI%2FML+%26+Cloud+Solutions;Building+Intelligent%2C+Scalable+Systems;5%2B+Years+of+Engineering+Experience)
 
 ## 👩‍💻 About Me
 
