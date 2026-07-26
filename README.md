@@ -8,13 +8,11 @@
 
 Hi, I'm **Niharika Nagoju** — a Software Developer with **5 years of experience** building AI/ML powered applications and scalable cloud solutions. I love turning complex problems into clean, efficient, production-ready systems. 🚀
 
-Beyond coding, I create content around tech and career growth on **YouTube**, **Medium**, and **Instagram**, where I share tutorials, project breakdowns, and lessons learned along the way. 🎥✍️
 
 🔭 I'm currently building AI/ML powered applications and cloud-native systems.
 
 🌱 I'm always learning new tools across cloud, data, and machine learning.
 
-✍️ I write and create content to help others learn tech in a simple way.
 
 ⚡ Fun fact: I enjoy simplifying complex tech concepts into byte-sized content.
 
@@ -33,7 +31,7 @@ Beyond coding, I create content around tech and career growth on **YouTube**, **
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharika-nagoju2104) [![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://niharika2104.github.io/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@niharika2104) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@niharika2104) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niharika2104) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagoju.niharika2104@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://niharika2104.github.io/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagoju.niharika2104@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -43,12 +41,5 @@ Beyond coding, I create content around tech and career growth on **YouTube**, **
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niharika2104&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=niharika2104&theme=darkhub&no-frame=true&row=1&column=7)
-
-## 🤝 Let's Connect
-
-I'm always open to discussing AI/ML projects, cloud architecture, or collaborating on something exciting. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/niharika-nagoju2104), check out my [portfolio](https://niharika2104.github.io/), or drop a comment on my content across YouTube, Medium, and Instagram.
 
 **Thanks for stopping by — let's build something great together! ✨**
